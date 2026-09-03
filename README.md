@@ -1,4 +1,4 @@
-# 🐍 Snake Game
+# 🐍 Snake Game by Paulo Henrique
 
 Um jogo simples de Snake feito com HTML, CSS e JavaScript.
 
