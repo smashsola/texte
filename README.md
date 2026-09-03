@@ -25,3 +25,4 @@ Algumas ideias:
 - aumentar a velocidade;
 - adicionar uma mensagem quando bater o recorde;
 - criar um botão de pausa.
+a
